@@ -1,0 +1,8 @@
+.chart {
+    width: 100%;
+    height: 500px;
+    border: 1px solid #ccc;
+}
+.circle {
+    transition: transform 0.5s ease;
+}
